@@ -9,6 +9,7 @@ Welcome to **UtpalAI**, an open-source clone of Google's Gemini AI. This project
 ## 🔴 Live Demo
 [🚀 Visit the Site](https://utpal-ai.vercel.app/)
 
+
 ## 🌟 Features
 
 - 🧠 **Multimodal AI** – Handles both text and images.
